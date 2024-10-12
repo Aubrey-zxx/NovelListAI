@@ -1,52 +1,52 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "PsyHub",
+    "solgan": "每个人都是一个宇宙"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "PsyHub"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta": "开始使用"
+      "title": "每个人都是一个宇宙",
+      "description": "朴素的心理爱好者交流平台",
+      "cta": "开始探索"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "功能分区",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "星际助推器",
+        "description": "提供权威、专业的心理培训，助力职业转型"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "赛博加油站",
+        "description": "AI游戏提升心理状态"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "传送门",
+        "description": "线下活动、IP周边专区"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "哆啦A梦办公室",
+        "description": "论坛互助，与千万星际旅行者同行"
       }
     },
     "Testimonials": {
-      "title": "用户评价",
+      "title": "银河信箱",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "自由执业咨询师",
+        "content": "擅长职业生涯规划，为0-3岁的职场小白提供职业发展助力。"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "IP设计师",
+        "content": "星际旅行团来了一位新朋友！快来认识一下吧！"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "传送门值班保安",
+        "content": "SillyLand大学教授Big Head将于13月32日空降xxx！舱位名额开放30位！先到先得！"
       }
     },
     "Header": {
@@ -67,15 +67,15 @@
       "tutorials": "教程",
       "contact": "联系我们",
       "email": "support@scriptcraft.com",
-      "address1": "123 编剧大道",
-      "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "address1": "123 猎户座大道",
+      "address2": "太阳系，仙女座 90028",
+      "cta": "今天开始您的内心宇宙之旅",
       "startFreeTrial": "开始免费试用",
-      "copyright": "© 2023 ScriptCraft。保留所有权利。"
+      "copyright": "© 2024 PsyHub。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
-      "imageAlt": "ScriptCraft界面"
+      "title": "每个人都是一个宇宙",
+      "imageAlt": "PsyHub界面"
     }
   },
   "Dashboard": {
